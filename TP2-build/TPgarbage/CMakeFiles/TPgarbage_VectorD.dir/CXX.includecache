@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2/TPgarbage/VectorD.cpp
+VectorD.hpp
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2/TPgarbage/VectorD.hpp
+
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2/TPgarbage/VectorD.hpp
+

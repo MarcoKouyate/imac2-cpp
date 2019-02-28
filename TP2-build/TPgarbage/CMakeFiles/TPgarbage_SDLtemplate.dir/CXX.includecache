@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2/TPgarbage/SDLtemplate.cpp
+glimac/SDLWindowManager.hpp
+-
+GL/glew.h
+-
+iostream
+-
+
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2/glimac/include/glimac/SDLWindowManager.hpp
+cstdint
+-
+SDL/SDL.h
+-
+glm.hpp
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2/glimac/include/glimac/glm.hpp
+
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2/glimac/include/glimac/glm.hpp
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+glm/gtc/constants.hpp
+-
+glm/gtx/io.hpp
+-
+glm/gtc/random.hpp
+-
+

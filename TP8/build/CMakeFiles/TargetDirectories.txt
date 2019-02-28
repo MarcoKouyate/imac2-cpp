@@ -1,0 +1,3 @@
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP8/build/CMakeFiles/rebuild_cache.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP8/build/CMakeFiles/edit_cache.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP8/build/CMakeFiles/template.dir

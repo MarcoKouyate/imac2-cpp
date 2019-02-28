@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -O2   CMakeFiles/TP6_exercice.dir/src/main.cpp.o  -o TP6_exercice -rdynamic 

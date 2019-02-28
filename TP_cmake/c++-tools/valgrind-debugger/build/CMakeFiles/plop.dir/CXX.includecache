@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP_cmake/c++-tools/valgrind-debugger/src/main.cpp
+iostream
+-
+cstdlib
+-
+string
+-
+

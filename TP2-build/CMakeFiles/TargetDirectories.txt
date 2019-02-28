@@ -1,0 +1,11 @@
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2-build/CMakeFiles/rebuild_cache.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2-build/CMakeFiles/edit_cache.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2-build/glimac/CMakeFiles/rebuild_cache.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2-build/glimac/CMakeFiles/edit_cache.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2-build/glimac/CMakeFiles/glimac.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2-build/TPgarbage/CMakeFiles/rebuild_cache.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2-build/TPgarbage/CMakeFiles/edit_cache.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2-build/TPgarbage/CMakeFiles/TPgarbage_SDLtemplate.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2-build/TPgarbage/CMakeFiles/TPgarbage_VectorD.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2-build/TPgarbage/CMakeFiles/TPgarbage_foo.dir
+/home/6im2/mkouyate/Documents/Marco/TP-Cpp/TP2-build/TPgarbage/CMakeFiles/TPgarbage_main.dir
